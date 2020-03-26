@@ -1,0 +1,52 @@
+<resources>
+    <string name="app_name">dataattempt1</string>
+
+    <string-array name="Categories">
+        <item>scenery</item>
+        <item>adventure</item>
+        <item>scifi</item>
+        <item>steampunk</item>
+        <item>fantasy</item>
+        <item>medieval</item>
+        <item>cyberpunk</item>
+        <item>cyberpunk</item>
+        <item>horror</item>
+        <item>character</item>
+        <item>superhero</item>
+        <item>space</item>
+        <item>fable</item>
+        <item>historical</item>
+        <item>mythology</item>
+    </string-array>
+
+
+    <string-array name="Verbs">
+        <item>Run</item>
+        <item>Jump</item>
+        <item>Sleep</item>
+        <item>Hope</item>
+        <item>Cook</item>
+        <item>Read</item>
+        <item>Leap</item>
+        <item>Cry</item>
+        <item>Discriminate</item>
+    </string-array>
+
+    <string-array name="Subj">
+        <item>Girl</item>
+        <item>Boy</item>
+        <item>Woman</item>
+        <item>Man</item>
+        <item>Cat Person</item>
+        <item>Mutant</item>
+        <item>Hybrid</item>
+        <item>Asian</item>
+        <item>Caucasian</item>
+        <item>English</item>
+        <item>Pacific Islander</item>
+        <item>Black Woman</item>
+        <item>Southeast Asian</item>
+        <item>Aristocrat</item>
+    </string-array>
+
+</resources>
